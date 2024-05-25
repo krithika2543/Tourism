@@ -72,10 +72,6 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
-<<<<<<< HEAD
-}
-
-=======
 .pagination-container {
     display: flex;
     align-items: center;
@@ -125,4 +121,3 @@ body {
     border: none;
     font-weight: 600;
 }
->>>>>>> upstream/main
